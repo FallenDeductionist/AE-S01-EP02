@@ -1,0 +1,10 @@
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\bin\Debug\propuesto02.exe.config
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\bin\Debug\propuesto02.exe
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\bin\Debug\propuesto02.pdb
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\obj\Debug\propuesto02.csprojAssemblyReference.cache
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\obj\Debug\propuesto02.Form1.resources
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\obj\Debug\propuesto02.Properties.Resources.resources
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\obj\Debug\propuesto02.csproj.GenerateResource.cache
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\obj\Debug\propuesto02.csproj.CoreCompileInputs.cache
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\obj\Debug\propuesto02.exe
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S01\propuesto02\propuesto02\obj\Debug\propuesto02.pdb
